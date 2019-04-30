@@ -1,0 +1,1 @@
+The above document is the Final Project for the Concepts of DataBase Project. The project was created by 4 Seniors at Texas Tech University. The project is a part of the Computer Science Department at Texas Tech University.
